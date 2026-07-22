@@ -2,11 +2,11 @@
 
 **`Estudante de Ciência da Computação`**
 
-"Me chamo João Da Fonte Queiroz, moro na Região Metropolitana do Recife e sou estudante de Ciência da Computação na Unicap (6º período). Tenho foco em desenvolvimento de software e resolução de problemas, com base sólida em Lógica de Programação, Orientação a Objetos e Bancos de Dados Relacionais. Possuo experiência prática em projetos acadêmicos e robótica inclusiva, aplicando conceitos de engenharia de software e arquitetura. Em constante aprendizado de novas tecnologias, busco uma oportunidade de estágio em Desenvolvimento de Software."
+Me chamo João Da Fonte Queiroz, moro na Região Metropolitana do Recife e sou estudante de Ciência da Computação na Unicap (6º período). Tenho foco em desenvolvimento de software e resolução de problemas, com base sólida em Lógica de Programação, Orientação a Objetos e Bancos de Dados Relacionais. Possuo experiência prática em projetos acadêmicos e robótica inclusiva, aplicando conceitos de engenharia de software e arquitetura. Em constante aprendizado de novas tecnologias, busco uma oportunidade de estágio em Desenvolvimento de Software.
 
----
 
-### 🤖 Linguagens e Tecnologias
+
+### Linguagens e Tecnologias
 
 <img 
     align="left" 

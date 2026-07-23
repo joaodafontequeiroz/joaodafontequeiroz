@@ -69,8 +69,7 @@ Me chamo João Da Fonte Queiroz, moro na Região Metropolitana do Recife e sou e
 <br/>
 
 ### 📊 Estatísticas
-
 <p align="center">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=joaodafontequeiroz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=1" />
-  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodafontequeiroz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" />
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats-orcin-two.vercel.app/api?username=joaodafontequeiroz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&v=1" />
+  <img alt="Top Langs" height="200" src="https://github-readme-stats-orcin-two.vercel.app/api/top-langs/?username=joaodafontequeiroz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" />
 </p>
